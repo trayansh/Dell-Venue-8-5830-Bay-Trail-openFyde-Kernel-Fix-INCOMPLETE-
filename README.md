@@ -30,9 +30,13 @@ xz -z -9 -T0 /mnt/host/source/src/build/images/amd64-openfyde/latest/chromiumos_
 
 ## Resources (This project is all made possible because of them)
 https://github.com/openFyde/getting-started
+
 https://www.chromium.org/chromium-os/developer-library/guides/development/simple-chrome-workflow/#getting-started
-https://www.studioteabag.com/science/dell-venue-pro-linux/
+
+https://www.studioteabag.com/science/dell-venue-pro-linux
+
 https://github.com/peterlolty/kernel-dell-venue-8-pro
+
 https://github.com/lamadotcare/bootia32-efi/blob/main/bootia32.efi
 
 
