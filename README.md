@@ -16,6 +16,10 @@ chmod +x prepare5830.sh
 ./prepare5830.sh
 
 
+bash
+
+
+
 ## 📖 OUTCOME & MY STORY
 My journey started with a Dell Venue 8 (5830). To bring life out of it, I experimented with all different Linux, Windows, and Chrome OS distributions. But everywhere I went, there was some issue with the kernel, specifically on Linux builds. 
 
