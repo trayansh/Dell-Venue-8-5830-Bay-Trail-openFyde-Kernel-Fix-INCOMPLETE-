@@ -17,10 +17,15 @@ chmod +x prepare5830.sh
 
 [BUILD SCRIPTS]
 bash
+
 (crosh)
+
 cros build-packages --board=amd64-openfyde --jobs=$(nproc)
+
 cros build-image --board=amd64-openfyde --no-enable-rootfs-verification dev
+
 xz -z -9 -T0 /mnt/host/source/src/build/images/amd64-openfyde/latest/chromiumos_image.bin
+
 
 
 ## 📖 OUTCOME & MY STORY
