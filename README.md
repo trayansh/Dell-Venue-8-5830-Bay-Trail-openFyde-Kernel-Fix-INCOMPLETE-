@@ -28,7 +28,7 @@ cros build-image --board=amd64-openfyde --no-enable-rootfs-verification dev
 
 xz -z -9 -T0 /mnt/host/source/src/build/images/amd64-openfyde/latest/chromiumos_image.bin
 
-## 📚 Resources (This project is all made possible because of them)
+## 📚 RESOURCES (This project is all made possible because of them)
   https://github.com/openFyde/getting-started
 
   https://www.chromium.org/chromium-os/developer-library/guides/development/simple-chrome-workflow/#getting-started
