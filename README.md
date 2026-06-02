@@ -15,7 +15,9 @@ bash
 chmod +x prepare5830.sh
 ./prepare5830.sh
 
-[BUILD SCRIPTS]
+After this coonfig the kernel and Compile and Build.
+
+[COMPILE & BUILD SCRIPTS]
 bash
 
 (crosh)
